@@ -1,4 +1,4 @@
-# myapp
+# newprogram
 
 ## Project setup
 ```
